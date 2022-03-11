@@ -1,0 +1,31 @@
+1150000
+
+1 	Fabri Ramirez 	Ýspanya 	3250000 	Kaleci 	30 	38 	0 	0 	1 	0 	3420
+29 	Tolga Zengin 	Türkiye 	800000 	Kaleci 	34 	7 	0 	0 	0 	0 	630
+97 	Utku Yuvakuran 	Türkiye 	150000 	Kaleci 	20 	1 	0 	0 	0 	0 	90
+12 	Gary Medel 	Þili 	13000000 	Defans 	30 	35 	1 	2 	10 	0 	2601
+5 	Pepe Kepler 	Portekiz 	3250000 	Defans 	34 	34 	2 	1 	7 	1 	2955
+88 	Caner Erkin 	Türkiye 	4000000 	Defans 	29 	34 	0 	11 	12 	0 	2530
+6 	Dusko Tosic 	Sýrbistan 	2500000 	Defans 	32 	33 	4 	1 	12 	1 	2827
+3 	Adriano Correia 	Brezilya 	2750000 	Defans 	33 	33 	1 	3 	6 	0 	2587
+77 	Gökhan Gönül 	Türkiye 	2750000 	Defans 	32 	30 	0 	3 	2 	0 	2314
+24 	Domagoj Vida 	Hýrvatistan 	9500000 	Defans 	28 	13 	1 	0 	2 	1 	654
+14 	Fatih Aksoy 	Türkiye 	100000 	Defans 	20 	4 	0 	0 	0 	0 	204
+33 	Atýnç Nukan 	Türkiye 	1250000 	Defans 	24 	0 	0 	0 	0 	0 	0
+94 	Anderson Talisca 	Brezilya 	14000000 	Ortasaha 	23 	42 	18 	5 	7 	0 	3124
+8 	Ryan Babel 	Hollanda 	5000000 	Ortasaha 	31 	40 	14 	5 	6 	1 	3287
+18 	Tolgay Arslan 	Türkiye 	6250000 	Ortasaha 	27 	38 	0 	2 	8 	0 	2274
+7 	Ricardo Quaresma 	Portekiz 	3500000 	Ortasaha 	34 	35 	4 	9 	6 	2 	2547
+13 	Atiba Hutchinson 	Kanada 	1750000 	Ortasaha 	34 	34 	2 	2 	6 	1 	2799
+10 	Oðuzhan Özyakup 	Türkiye 	12000000 	Ortasaha 	25 	33 	0 	6 	7 	1 	2018
+17 	Jeremain Lens 	Hollanda 	11000000 	Ortasaha 	30 	28 	4 	4 	2 	0 	1474
+20 	Necip Uysal 	Türkiye 	3500000 	Ortasaha 	26 	17 	0 	1 	3 	1 	849
+35 	Veli Kavlak 	Avusturya 	5250000 	Ortasaha 	29 	0 	0 	0 	0 	0 	0
+55 	Gökhan Töre 	Türkiye 	11000000 	Ortasaha 	25 	0 	0 	0 	0 	0 	0
+9 	Alvaro Negredo 	Ýspanya 	7500000 	Forvet 	32 	41 	14 	9 	3 	0 	1935
+11 	Mustafa Pektemek 	Türkiye 	3000000 	Forvet 	29 	12 	4 	1 	1 	0 	629
+30 	Vagner Love 	Brezilya 	2750000 	Forvet 	33 	11 	3 	0 	2 	0 	515
+95 	Cyle Larin 	Kanada 	3000000 	Forvet 	22 	1 	1 	0 	0 	0 	8
+78 	Furkan yilmaz 	turk 	100000 	forvet 	34 	0 	0 	0 	0 	0 	11
+99 	burak yilmaz 	turk 	850000 	forvet 	29 	0 	0 	0 	0 	0 	11
+22 	hasan yurt 	asd	 123	 asdas	 12	 0	 0	 0	 0	 0	 11
